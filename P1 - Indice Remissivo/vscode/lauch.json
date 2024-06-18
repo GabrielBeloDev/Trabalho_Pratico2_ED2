@@ -1,0 +1,13 @@
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch IndiceRemissivo",
+            "request": "launch",
+            "mainClass": "IndiceRemissivo",
+            "projectName": "Trabalho_2_ED2"
+        }
+    ]
+}
